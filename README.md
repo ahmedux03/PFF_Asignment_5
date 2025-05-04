@@ -9,6 +9,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Upload `sample_kaggle_finance.csv` or your own dataset and explore the predictions!
+Upload `kaggle_finance.csv` or your own dataset and explore the predictions!
 
 Created for AF3005 – FAST NUCES
